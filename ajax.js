@@ -50,12 +50,3 @@ function doAjax(){
     })
 }
 
-
-// function printImage(url){
-
-//     var div = document.querySelector("#result");
-//     var img = document.createElement("img");
-//     img.src = url;
-//     img.className = "size";
-//     div.appendChild(img);
-// }
